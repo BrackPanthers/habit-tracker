@@ -1,0 +1,3 @@
+function brackGenerator() {
+  return "Brack";
+};
