@@ -2,6 +2,10 @@ function brackGenerator() {
   return "Brack";
 };
 
-function brack() {
+function brackFunc() {
     return "ng-brack"
 }
+
+for (var brack in brack) {
+  console.log('brack');
+};
