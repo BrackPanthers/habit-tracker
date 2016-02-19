@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/BrackPanthers/habit-tracker/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/BrackPanthers/habit-tracker#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -25,4 +26,7 @@
     "passport-facebook": "^2.1.0",
     "passport-google": "^0.3.0"
   }
+=======
+  "homepage": "https://github.com/BrackPanthers/habit-tracker#readme"
+>>>>>>> master
 }
