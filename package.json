@@ -1,0 +1,19 @@
+{
+  "name": "habit-tracker",
+  "version": "1.0.0",
+  "description": "DM-8 group project. Ionic, Angular, and more!",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrackPanthers/habit-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrackPanthers/habit-tracker/issues"
+  },
+  "homepage": "https://github.com/BrackPanthers/habit-tracker#readme"
+}
